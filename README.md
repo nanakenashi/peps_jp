@@ -1,2 +1,2 @@
 # peps_jp
-Translated PEP texts
+Translated PEP docs
